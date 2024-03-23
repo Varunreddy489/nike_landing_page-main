@@ -9,7 +9,7 @@ import {
   Subscribe,
   SuperQuality,
 } from "./sections";
-
+//APPs
 const App = () => {
   return (
     <main className='relative'>
